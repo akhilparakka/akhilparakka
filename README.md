@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*fZ7YQUQHvU4Lqh8W.gif)]
+[![MasterHead](https://miro.medium.com/max/1400/0*fZ7YQUQHvU4Lqh8W.gif](https://i.gifer.com/KdU.gif)]
 <h1 align="center">Hi 👋, I'm Akhil Parakka</h1>
 <h3 align="center">A passionate Web3 developer Intern.</h3>
 
