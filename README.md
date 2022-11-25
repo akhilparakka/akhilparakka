@@ -1,4 +1,4 @@
-[![MasterHead](https://www.onthesly.com/wp-content/uploads/2022/03/WHOWEARE-glitch-Header-2000px.gif)]
+![MasterHead (https://www.onthesly.com/wp-content/uploads/2022/03/WHOWEARE-glitch-Header-2000px.gif)]
 <h1 align="center">Hi 👋, I'm Akhil Parakka</h1>
 <h3 align="center">A passionate Web3 developer Intern.</h3>
 
