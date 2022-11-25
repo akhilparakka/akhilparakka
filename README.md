@@ -1,7 +1,7 @@
 [![MasterHead](https://www.onthesly.com/wp-content/uploads/2022/03/WHOWEARE-glitch-Header-2000px.gif)]
 <h1 align="center">Hi 👋, I'm Akhil Parakka</h1>
 <h3 align="center">A passionate Web3 developer Intern.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/max/1400/0*fZ7YQUQHvU4Lqh8W.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*fZ7YQUQHvU4Lqh8W.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilparakka&label=Profile%20views&color=0e75b6&style=flat" alt="akhilparakka" /> </p>
 
