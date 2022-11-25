@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Parakka</h1>
 <h3 align="center">A passionate Web3 developer Intern.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*fZ7YQUQHvU4Lqh8W.gif")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilparakka&label=Profile%20views&color=0e75b6&style=flat" alt="akhilparakka" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akhil_parakka" target="blank"><img src="https://img.shields.io/twitter/follow/akhil_parakka?logo=twitter&style=for-the-badge" alt="akhil_parakka" /></a> </p>
