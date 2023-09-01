@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akhil_parakka" target="blank"><img src="https://img.shields.io/twitter/follow/akhil_parakka?logo=twitter&style=for-the-badge" alt="akhil_parakka" /></a> </p>
 
-- 🌱 I’m playing around with **NextJs, CSS**
+- 🌱 I’m playing around with **LLMs**
 
 - 📫 How to reach me **iamakhilparakka@gmail.com**
 
