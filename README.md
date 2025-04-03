@@ -1,8 +1,6 @@
 [![MasterHead](https://www.onthesly.com/wp-content/uploads/2022/03/WHOWEARE-glitch-Header-2000px.gif)]
 <h1 align="center">Hi 👋, I'm Akhil Parakka</h1>
 <h3 align="center">A passionate Web3 developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*fZ7YQUQHvU4Lqh8W.gif">
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akhilparakka/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhilparaka@gmail.com) 
