@@ -27,6 +27,7 @@ jobs:
       - name: Commit the koi if it changed
         shell: bash
         run: |
+          git pull --rebase --autostash --quiet
           git add koi/koi.gif
           if git diff --cached --quiet; then
             echo "The koi is unchanged; nothing to commit."
