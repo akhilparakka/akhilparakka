@@ -13,6 +13,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=akhilparakka&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilparakka&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
